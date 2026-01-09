@@ -132,16 +132,9 @@ git checkout -b feature/your-feature
 git commit -m "feat: add your feature"
 git push origin feature/your-feature
 ```
-
-## 🎥 Demonstration Video  
-
-| **Type** | **Link** |
-|-----------|----------|
-| ▶️ Video Demo | [Watch Demo](https://drive.google.com/file/d/1GJmsFnQ9A68i2jkN4p9MuwBgARkdHUXP/view?usp=sharing) |
-
 ---
 
-© 2025 **Jeet Goyal** | Built for **WCHL Hackathon 2025 (National Level Qualification)**
+© 2025 **Happy Semicolon**
 
 
 
